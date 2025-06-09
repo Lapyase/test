@@ -3,10 +3,48 @@
     <title>Test</title>
     <link href="https://github.com/Lapyase/test.git/feed.xml" rel="self" />
     <link href="https://github.com/Lapyase/test.git" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-06-09T19:37:22+08:00</updated>
     <author>
         <name>Lapy</name>
     </author>
     <id>https://github.com/Lapyase/test.git</id>
 
+    <entry>
+        <title>daohang</title>
+        <author>
+            <name>Lapy</name>
+        </author>
+        <link href="https://github.com/Lapyase/test.git/daohang.html"/>
+        <id>https://github.com/Lapyase/test.git/daohang.html</id>
+
+        <updated>2025-06-09T19:37:22+08:00</updated>
+            <summary>
+                <![CDATA[
+                    📑 站点目录 心理学相关文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <br>
+<br>
+<br>  
+<br>  
+<br>  
+<br>
+<br>
+<br>  <h1>📑 站点目录</h1>
+<br>  <ul>
+<br>    <li>
+<br>      <a href="./psychological.html">心理学相关文章</a>
+<br>    </li>
+<br>  </ul>
+<br>
+<br>
+<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
