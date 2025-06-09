@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>简易跳转页面</title>
+  <style>
+    html {
+      scroll-behavior: smooth; /* 平滑跳转效果 */
+    }
+  </style>
+</head>
+<body>
+
+  <h1>目录</h1>
+  <ul>
+    <li><a href="#psychological">psychological</a></li>
+    <li><a href="#test">test</a></li>
+  </ul>
+
+  <hr>
+
+  <h2 id="psychological">psychological</h2>
+  <p>这里是心理学相关的内容。你可以写介绍、笔记、总结等内容放在这里。</p>
+
+  <h2 id="test">test</h2>
+  <p>这里是测试相关的内容，比如测试思维模型、心理学实验方法等。</p>
+
+</body>
+</html>
