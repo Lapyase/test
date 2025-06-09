@@ -3,10 +3,30 @@
     <title>Test</title>
     <link href="https://github.com/Lapyase/test.git/feed.xml" rel="self" />
     <link href="https://github.com/Lapyase/test.git" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-06-09T19:58:12+08:00</updated>
     <author>
         <name>Lapy</name>
     </author>
     <id>https://github.com/Lapyase/test.git</id>
 
+    <entry>
+        <title>2</title>
+        <author>
+            <name>Lapy</name>
+        </author>
+        <link href="https://github.com/Lapyase/test.git/2.html"/>
+        <id>https://github.com/Lapyase/test.git/2.html</id>
+
+        <updated>2025-06-09T19:58:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                    https://lapyase.github.io/test/xin-li.html
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>https://lapyase.github.io/test/xin-li.html</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
